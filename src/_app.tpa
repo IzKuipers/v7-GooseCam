@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "name": "Goose Cam",
+    "author": "Izaak Kuipers",
+    "version": "1.0.0",
+    "icon": "@local:goosecam.png"
+  },
+  "size": {
+    "w": 162,
+    "h": 122
+  },
+  "minSize": {
+    "w": 162,
+    "h": 122
+  },
+  "maxSize": {
+    "w": 162,
+    "h": 122
+  },
+  "position": {
+    "centered": false
+  },
+  "state": {
+    "maximized": false,
+    "minimized": false,
+    "resizable": false,
+    "headless": true,
+    "fullscreen": false
+  },
+  "controls": {
+    "minimize": false,
+    "maximize": false,
+    "close": true
+  },
+  "entrypoint": "main.js",
+  "glass": false,
+  "id": "IzK_GooseCam",
+  "hidden": false,
+  "core": false
+}
