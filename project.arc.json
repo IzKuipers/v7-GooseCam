@@ -3,13 +3,17 @@
     "name": "Goose Cam",
     "description": "Keep an eye on The Holy Goose",
     "author": "Izaak Kuipers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "installLocation": "U:/Applications/IzK_GooseCam",
-    "appId": "IzK_GooseCam"
+    "appId": "IzK_GooseCam",
+    "store": {
+      "image": "goosecam.png",
+      "banner": "store/banner.png"
+    }
   },
   "outFile": "IzK_GooseCam.arc",
   "payloadDir": "src",
   "devPort": 3128,
-  "buildHash": "351b1980",
+  "buildHash": "9efa6d1f",
   "noHotRelaunch": false
 }
