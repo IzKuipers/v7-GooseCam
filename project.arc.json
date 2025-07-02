@@ -3,7 +3,7 @@
     "name": "Goose Cam",
     "description": "Keep an eye on The Holy Goose",
     "author": "Izaak Kuipers",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "installLocation": "U:/Applications/IzK_GooseCam",
     "appId": "IzK_GooseCam",
     "store": {
