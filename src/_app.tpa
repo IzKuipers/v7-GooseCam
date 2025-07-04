@@ -2,8 +2,9 @@
   "metadata": {
     "name": "Goose Cam",
     "author": "Izaak Kuipers",
-    "version": "1.0.3",
-    "icon": "@local:goosecam.png"
+    "version": "1.0.4",
+    "icon": "@local:goosecam.png",
+    "appGroup": "entertainment"
   },
   "size": {
     "w": 162,
